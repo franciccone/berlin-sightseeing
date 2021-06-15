@@ -20,6 +20,7 @@ html {
 
 header {
     background-color: rgb(37,43,57, 0.4);
+    padding: 0.1em 0;
 }
 
 body {
@@ -28,8 +29,12 @@ body {
 
 h1 {
     color: #F5FFFA;
-    opacity: 1 !important;
+    opacity: 1;
     font-family: 'Staatliches', cursive;
     font-size: 3rem;
     text-align: center;
+}
+
+h1:hover {
+    color: #CBB494;
 }
