@@ -1,5 +1,7 @@
 /* --- RESET --- */
 
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -7,4 +9,27 @@
     text-decoration: none;
     list-style-type: none;
     box-sizing: border-box;
+}
+
+/* --- GENERAL --- */
+
+html {
+    font-family: 'Staatliches', cursive;
+    font-size: 16px;
+}
+
+header {
+    background-color: rgb(37,43,57, 0.4);
+}
+
+body {
+    background-color: #0C1622;
+}
+
+h1 {
+    color: #F5FFFA;
+    opacity: 1 !important;
+    font-family: 'Staatliches', cursive;
+    font-size: 3rem;
+    text-align: center;
 }
