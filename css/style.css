@@ -19,6 +19,9 @@ html {
 }
 
 header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(37,43,57, 0.4);
     padding: 0.1em 0;
 }
