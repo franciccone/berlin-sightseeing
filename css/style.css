@@ -38,3 +38,10 @@ h1 {
 h1:hover {
     color: #CBB494;
 }
+
+/* --- IMAGES --- */
+
+.img {
+    width: 50%;
+    height: auto;
+}
