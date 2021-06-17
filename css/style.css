@@ -66,7 +66,7 @@ p {
 .grid-container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: repeat(20, 5vw);
+    grid-template-rows: repeat(24, 5vw);
     grid-gap: 15px;
     margin: 2em 3em;
 }
@@ -146,6 +146,27 @@ p {
     grid-column-end: 13;
     grid-row-start: 17;
     grid-row-end: 21;
+}
+
+.img-item12 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 21;
+    grid-row-end: 25;
+}
+
+.img-item13 {
+    grid-column-start: 5;
+    grid-column-end: 9;
+    grid-row-start: 21;
+    grid-row-end: 25;
+}
+
+.img-item14 {
+    grid-column-start: 9;
+    grid-column-end: 13;
+    grid-row-start: 21;
+    grid-row-end: 25;
 }
 
 .img {
