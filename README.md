@@ -8,6 +8,8 @@ Personal project, making a Berlin photo gallery.
 
 I did this website to practice the use of CSS Grids.
 
+All the images are free images from Unsplash. You can check the authors [here](https://unsplash.com/s/photos/berlin).
+
 <b>Technologies used:</b>
 
 HTML
