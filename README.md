@@ -26,4 +26,4 @@ Live Preview: [See](https://franciccone.github.io/berlin-sightseeing/)
 
 ## Author
 
-[Francisco Ciccone](https://github.com/franciccone)
+[Francisco Ciccone](https://franciccone.github.io/portfolio/)
